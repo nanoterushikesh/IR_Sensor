@@ -1,0 +1,196 @@
+Change Component Description : Designator=L1 Old Description=2.2uH,1.3A New Description=2.2uH 1.3A 210mOhms
+Change Component Description : Designator=C2 Old Description=Ceramic Capacitor,0.1uF, 0402 New Description=Ceramic Capacitor,0.1uF,16V,X7R, 0402,10%
+Change Component Description : Designator=C8 Old Description=Ceramic Capacitor,0.1uF, 0402 New Description=Ceramic Capacitor,0.1uF,16V,X7R, 0402,10%
+Change Component Description : Designator=C11 Old Description=Ceramic Capacitor,0.1uF, 0402 New Description=Ceramic Capacitor,0.1uF,16V,X7R, 0402,10%
+Change Component Description : Designator=C13 Old Description=Ceramic Capacitor,0.1uF, 0402 New Description=Ceramic Capacitor,0.1uF,16V,X7R, 0402,10%
+Change Component Description : Designator=C15 Old Description=Ceramic Capacitor,0.1uF, 0402 New Description=Ceramic Capacitor,0.1uF,16V,X7R, 0402,10%
+Change Component Description : Designator=C16 Old Description=Ceramic Capacitor,0.1uF, 0402 New Description=Ceramic Capacitor,0.1uF,16V,X7R, 0402,10%
+Change Component Description : Designator=C18 Old Description=Ceramic Capacitor,0.1uF, 0402 New Description=Ceramic Capacitor,0.1uF,16V,X7R, 0402,10%
+Change Component Description : Designator=C19 Old Description=Ceramic Capacitor,0.1uF, 0402 New Description=Ceramic Capacitor,0.1uF,16V,X7R, 0402,10%
+Change Component Description : Designator=C21 Old Description=Ceramic Capacitor,0.1uF, 0402 New Description=Ceramic Capacitor,0.1uF,16V,X7R, 0402,10%
+Change Component Description : Designator=C26 Old Description=Ceramic Capacitor,0.1uF, 0402 New Description=Ceramic Capacitor,0.1uF,16V,X7R, 0402,10%
+Change Component Description : Designator=C30 Old Description=Ceramic Capacitor,0.1uF, 0402 New Description=Ceramic Capacitor,0.1uF,16V,X7R, 0402,10%
+Change Component Description : Designator=C1 Old Description=Ceramic Capacitor,1nF, 0402,4V,X7R New Description=Ceramic Capacitor,1nF, 0402,16V,X7R,10%
+Change Component Description : Designator=C3 Old Description=Ceramic Capacitor,1nF, 0402,4V,X7R New Description=Ceramic Capacitor,1nF, 0402,16V,X7R,10%
+Change Component Description : Designator=C5 Old Description=Ceramic Capacitor,1nF, 0402,4V,X7R New Description=Ceramic Capacitor,1nF, 0402,16V,X7R,10%
+Change Component Description : Designator=C22 Old Description=Ceramic Capacitor,1nF, 0402,4V,X7R New Description=Ceramic Capacitor,1nF, 0402,16V,X7R,10%
+Change Component Description : Designator=C27 Old Description=Ceramic Capacitor,1nF, 0402,4V,X7R New Description=Ceramic Capacitor,1nF, 0402,16V,X7R,10%
+Change Component Description : Designator=C31 Old Description=Ceramic Capacitor,22uF, 0402, 10V New Description=Ceramic Capacitor,22uF, 0402, 25V
+Change Component Description : Designator=C7 Old Description=Ceramic Capacitor,22uF, 0402, 10V New Description=Ceramic Capacitor,22uF, 0603, 25V,X7R,10%
+Change Component Description : Designator=C9 Old Description=Ceramic Capacitor,22uF, 0402, 10V New Description=Ceramic Capacitor,22uF, 0603, 25V,X7R,10%
+Change Component Description : Designator=C12 Old Description=Ceramic Capacitor,22uF, 0402, 10V New Description=Ceramic Capacitor,22uF, 0603, 25V,X7R,10%
+Change Component Description : Designator=C14 Old Description=Ceramic Capacitor,22uF, 0402, 10V New Description=Ceramic Capacitor,22uF, 0603, 25V,X7R,10%
+Change Component Description : Designator=C17 Old Description=Ceramic Capacitor,22uF, 0402, 10V New Description=Ceramic Capacitor,22uF, 0603, 25V,X7R,10%
+Change Component Description : Designator=C24 Old Description=Ceramic Capacitor,22uF, 0402, 10V New Description=Ceramic Capacitor,22uF, 0603, 25V,X7R,10%
+Change Component Description : Designator=C28 Old Description=Ceramic Capacitor,22uF, 0402, 10V New Description=Ceramic Capacitor,22uF, 0603, 25V,X7R,10%
+Change Component Description : Designator=C29 Old Description=Ceramic Capacitor,22uF, 0402, 10V New Description=Ceramic Capacitor,22uF, 0603, 25V,X7R,10%
+Change Component Description : Designator=C32 Old Description=Ceramic Capacitor,22uF, 0402, 10V New Description=Ceramic Capacitor,22uF, 0603, 25V,X7R,10%
+Change Component Description : Designator=R9 Old Description=Thick Film Resistor -  0 ohm, 1%, 0402 New Description=Thick Film Resistor -  0E, 1%, 0402
+Change Component Description : Designator=R12 Old Description=Thick Film Resistor -  0 ohm, 1%, 0402 New Description=Thick Film Resistor -  0E, 1%, 0402
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPC0402"; UniqueID = "\FVJJLWWU" ("\FVJJLWWU")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPC0402"; UniqueID = "\TXSOVHOZ" ("\TXSOVHOZ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC0402"; UniqueID = "\CNQMFQEN" ("\CNQMFQEN")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPC0402"; UniqueID = "\NSAFFVDB" ("\NSAFFVDB")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAPC0603"; UniqueID = "\QXYRGYDL" ("\QXYRGYDL")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAPC0402"; UniqueID = "\XMZHAFGG" ("\XMZHAFGG")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAPC0603"; UniqueID = "\HMWJUKBO" ("\HMWJUKBO")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAPC0402"; UniqueID = "\WKYSKXRP" ("\WKYSKXRP")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "CAPC0603"; UniqueID = "\CUNTHGPX" ("\CUNTHGPX")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAPC0402"; UniqueID = "\HSDQABIH" ("\HSDQABIH")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAPC0603"; UniqueID = "\VHPTCBJT" ("\VHPTCBJT")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAPC0402"; UniqueID = "\BFSSZIVD" ("\BFSSZIVD")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAPC0402"; UniqueID = "\CXYGZOGU" ("\CXYGZOGU")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "CAPC0603"; UniqueID = "\IZUPOZWM" ("\IZUPOZWM")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAPC0402"; UniqueID = "\KULWHNNH" ("\KULWHNNH")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "CAPC0402"; UniqueID = "\MXCLSAMA" ("\MXCLSAMA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CAPC0402"; UniqueID = "\WQXQTVOT" ("\WQXQTVOT")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAPC0402"; UniqueID = "\GYOPYYWT" ("\GYOPYYWT")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "CAPC0603"; UniqueID = "\UXCSSBYN" ("\UXCSSBYN")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "CAPC0402"; UniqueID = "\XTGKNJRC" ("\XTGKNJRC")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "CAPC0402"; UniqueID = "\UVEKMZMJ" ("\UVEKMZMJ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "CAPC0603"; UniqueID = "\MYSLTYDK" ("\MYSLTYDK")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "CAPC0603"; UniqueID = "\SXWIJIUJ" ("\SXWIJIUJ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "CAPC0402"; UniqueID = "\AXFGTWBH" ("\AXFGTWBH")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31" ("C31"); Footprint = "CAPC0603"; UniqueID = "\JDPUYXDF" ("\JDPUYXDF")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "CAPC0603"; UniqueID = "\AHGHVMOM" ("\AHGHVMOM")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "IND_0402"; UniqueID = "\OVUVVUCC" ("\OVUVVUCC")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0806"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "current"; Value = "1.3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "74479876222C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RESC0402"; UniqueID = "\BOQEPTTZ" ("\BOQEPTTZ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0E"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RESC0402"; UniqueID = "\GBAYIIXO" ("\GBAYIIXO")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0E"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAPC0603)
+Add component (AddParameter): Name = "Case/package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAPC0603)
+Add component (AddParameter): Name = "Case/package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAPC1206)
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=1.8V Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=VRIN Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=3.3V Pin=C25-2
+Added Member To Class: ClassName=IR_Sensor Member=Component C20 Cap
+Added Member To Class: ClassName=IR_Sensor Member=Component C23 Cap
+Added Member To Class: ClassName=IR_Sensor Member=Component C25 Cap
